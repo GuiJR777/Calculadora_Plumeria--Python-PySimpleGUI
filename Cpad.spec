@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['Cpad.py'],
+a = Analysis(['cpad.py'],
              pathex=['C:\\Users\\ULTRABOOK\\Desktop\\projetos\\programacao\\Cpad'],
              binaries=[],
              datas=[],
@@ -23,7 +23,7 @@ exe = EXE(pyz,
           a.zipfiles,
           a.datas,
           [],
-          name='Cpad',
+          name='cpad',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
