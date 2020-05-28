@@ -27,3 +27,6 @@ A ferramenta conta com input de dados em uma interface gráfica para realizaçã
                 Tamanho_total= Qconvites*Qunid
 
 ![Layout Cpad](https://i.imgur.com/aop9T1T.png "Layout Cpad")
+
+
+#### Para utilizar a calculadora acesse a pasta dist dentro do repositório, lá você terá o arquivo Cpad.exe que você poderá fazer o download(8mb) e executar em sua própria máquina.
